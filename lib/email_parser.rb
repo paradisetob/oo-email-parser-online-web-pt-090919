@@ -1,6 +1,9 @@
 class EmailParser(parse)
 end
-email_addresses=
+email_addresses="avi@test.com", "arel@test.com"
+parser=EmailAddressParser.new (email_addresses)
+
+parser.parse
 
 
 
