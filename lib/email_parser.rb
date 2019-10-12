@@ -1,5 +1,6 @@
-class EmailParser(Email)
+class EmailParser(parse)
   
+
 
 
 
